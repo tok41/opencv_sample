@@ -44,3 +44,15 @@
 * 参考
   http://qiita.com/daxanya1/items/4709ad8454760e17148c
 
+
+### sample_06.py
+
+* 静止画から顔検出してみる
+* 画像ファイルはハードコーディング
+* 参考
+  http://www.takunoko.com/blog/python%E3%81%A7%E9%81%8A%E3%82%93%E3%81%A7%E3%81%BF%E3%82%8B-part1-opencv%E3%81%A7%E9%A1%94%E8%AA%8D%E8%AD%98/
+
+
+### sample_07.py
+
+* あああ
