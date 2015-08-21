@@ -60,3 +60,10 @@
 * 参考
   http://hogehuga.com/post-241/
 
+### sample_08.py
+
+* 動画ファイルで顔認識する
+* 参考
+  http://www.takunoko.com/blog/python%E3%81%A7%E9%81%8A%E3%82%93%E3%81%A7%E3%81%BF%E3%82%8B-part1-opencv%E3%81%A7%E9%A1%94%E8%AA%8D%E8%AD%98/
+* sample_08_2.py で動画再生しながら処理する
+
