@@ -67,3 +67,10 @@
   http://www.takunoko.com/blog/python%E3%81%A7%E9%81%8A%E3%82%93%E3%81%A7%E3%81%BF%E3%82%8B-part1-opencv%E3%81%A7%E9%A1%94%E8%AA%8D%E8%AD%98/
 * sample_08_2.py で動画再生しながら処理する
 
+### sample_09.py
+
+* Webカメラの映像を使って、リアルタイムで顔認識する
+* 参考
+  http://blanktar.jp/blog/2015/02/python-opencv-realtime-lauhgingman.html
+  * このブログはけっこう参考になりそう
+
