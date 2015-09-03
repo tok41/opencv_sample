@@ -1,5 +1,7 @@
 # PythonでOpenCVを使ったプログラムを書いてみるテスト
 
+* 書いてみるというより、Webに置いてある先人達のコードの丸写しです
+
 ## サンプルコード(bin以下)
 
 ### sample_01.py
@@ -72,5 +74,3 @@
 * Webカメラの映像を使って、リアルタイムで顔認識する
 * 参考
   http://blanktar.jp/blog/2015/02/python-opencv-realtime-lauhgingman.html
-  * このブログはけっこう参考になりそう
-
